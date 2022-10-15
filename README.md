@@ -25,4 +25,4 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in teh Repo
+Please refer to the LICENSE in the Repo
